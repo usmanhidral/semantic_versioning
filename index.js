@@ -2,6 +2,6 @@ module.exports = {
   addCat(cat) {
     /* snip */
     return cat;
-    console.log("yes 3rd time")
+    console.log("yes next version time")
   },
 };
