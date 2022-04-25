@@ -1,0 +1,27 @@
+{
+  "name": "1.0.0",
+  "version": "1.0.0-development",
+  "description": "testing",
+  "main": "main.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usmanhidral/semantic_versioning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usmanhidral/semantic_versioning/issues"
+  },
+  "homepage": "https://github.com/usmanhidral/semantic_versioning#readme",
+  "keywords": [
+    "git",
+    "github"
+  ],
+  "devDependencies": {
+    "semantic-release": "^1.0.0"
+  }
+}

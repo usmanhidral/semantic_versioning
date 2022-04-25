@@ -1,0 +1,15 @@
+CHANGELOG.md
+README.md
+main.py
+setup.cfg
+setup.py
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/semantic_versioning.iml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+my_package.egg-info/PKG-INFO
+my_package.egg-info/SOURCES.txt
+my_package.egg-info/dependency_links.txt
+my_package.egg-info/top_level.txt
